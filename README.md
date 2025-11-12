@@ -20,7 +20,8 @@ Gambar ini menunjukkan Anda sedang mempraktikkan penggunaan Variabel Predefine d
 ### Membuat_Form_Input
 Gambar 1 (Form Input): Menampilkan sebuah formulir input yang sudah diisi datanya oleh pengguna (Nama: reijnders, Tanggal Lahir: 05/22/2001, Umur: 25, Status Umur: Dewasa, Pekerjaan: Software Engineer). 
 <img width="655" height="622" alt="Form Input" src="https://github.com/user-attachments/assets/90b7311d-d66e-468e-bcd9-437e498e4fb3" />
-menunjukkan sebuah praktik dasar PHP yang menggabungkan dua konsep utama: variabel dan pengambilan data dari input menggunakan metode GET. Fungsi Form: Terdapat form sederhana untuk memasukkan nama `("reijnders")` & Output Variabelnya tersebut digunakan untuk mencetak pesan dinamis "Selamat Datang, reijnders".
+menunjukkan sebuah praktik dasar PHP yang menggabungkan dua konsep utama: variabel dan pengambilan data dari input menggunakan metode GET. 
+Fungsi Form: Terdapat form sederhana untuk memasukkan nama `("reijnders")` & Output Variabelnya tersebut digunakan untuk mencetak pesan dinamis "Selamat Datang, reijnders".
 <img width="668" height="308" alt="Variable   GET" src="https://github.com/user-attachments/assets/dece421e-1a21-4146-afda-1e869c601b0d" />
 
 
