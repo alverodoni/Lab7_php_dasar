@@ -5,6 +5,15 @@ Kelas: TI.24.A.5 <P>
 Jurusan: Teknik Informatika <p>
 Mata Kuliah: Pemograman Web 1 <p>
 
+### Menjalankan Web Server
+menunjukkan bahwa lingkungan pengembangan web lokal `(web server dan database)` pada komputer tersebut sedang aktif dan berjalan normal. 
+Tujuan Utamanya Digunakan untuk menghidupkan `(Start)` dan mematikan `(Stop)` modul-modul server utama.
+Apache (Web Server): Berjalan (Running) pada Port 80 dan 443 & MySQL (Database Server): Berjalan (Running) pada Port 3306.
+<img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/059b941d-8ad1-4c3d-8cee-11eba0d447c1" />
+
+### Memulai PHP
+menunjukkan koleksi file dan folder yang merupakan sumber kode `(source code)` aplikasi web, yang siap untuk dijalankan setelah diletakkan di lokasi yang benar `(htdocs)` di dalam lingkungan server lokal XAMPP
+
 ### Belajar_Dasar_PHP
 menampilkan sebuah file PHP di browser, yang menunjukkan Anda sedang Belajar PHP Dasar. Judul Halaman: "Belajar PHP Dasar", Isi Halaman: Teks "Hello World", URL: localhost/Lab7_php_dasar/Belajar_HTML_Dasar.php
 <img width="1080" height="607" alt="Belajar PHP Dasar" src="https://github.com/user-attachments/assets/0dfd3a48-7589-4ae9-bdf6-bec9d3101fcb" />
